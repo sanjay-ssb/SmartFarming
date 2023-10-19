@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/S-farming/static/css/main.82fdbc1a.css",
+    "main.js": "/S-farming/static/js/main.bb01763d.js",
+    "static/media/farming2.jpg": "/S-farming/static/media/farming2.8e8e87b1678453366244.jpg",
+    "static/media/caro1.jpg": "/S-farming/static/media/caro1.b93bdb7f4d03f8c1301f.jpg",
+    "static/media/caro0.jpg": "/S-farming/static/media/caro0.2aab72b4f14b30595f2a.jpg",
+    "static/media/aboutus.jpg": "/S-farming/static/media/aboutus.79c002710cae8a999cf7.jpg",
+    "static/media/gmail.png": "/S-farming/static/media/gmail.23d2a9b0f4cc2cae2ed1.png",
+    "index.html": "/S-farming/index.html",
+    "main.82fdbc1a.css.map": "/S-farming/static/css/main.82fdbc1a.css.map",
+    "main.bb01763d.js.map": "/S-farming/static/js/main.bb01763d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82fdbc1a.css",
+    "static/js/main.bb01763d.js"
+  ]
+}
